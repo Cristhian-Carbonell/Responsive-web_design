@@ -1,0 +1,6 @@
+# Responsive Web Design Principles
+![](https://gentraf.com/wp-content/uploads/2020/06/responsive-design.jpg)
+
+There are many devices that can access the web, and they come in all shapes and sizes. Responsive web design is the practice of designing flexible websites that can respond to different screen sizes, orientations, and resolutions.
+
+In this course, you'll learn how to use CSS to make your webpages look good, no matter what device they're viewed on.
